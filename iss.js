@@ -1,12 +1,6 @@
 const request = require('request');
 
 
-
-
-
-// iss.js
-
-
 /**
  * Makes a single API request to retrieve the user's IP address.
  * Input:
